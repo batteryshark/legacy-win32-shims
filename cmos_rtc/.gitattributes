@@ -1,0 +1,8 @@
+# Keep source and build recipes stable across Windows, WSL, and POSIX shells.
+* text=auto
+*.c text eol=lf
+*.h text eol=lf
+*.md text eol=lf
+*.sh text eol=lf
+.gitattributes text eol=lf
+Makefile text eol=lf
